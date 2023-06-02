@@ -18,8 +18,9 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: '',
-  github: 'https://github.com/journey-roadside',
+  github: 'journey-roadside',
   linkedin: '',
+  zhihu:''，
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -54,9 +55,9 @@ export default siteConfig({
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
+  title: 'Others',
+  pageId: '692ecec3c83a40ef9224289e8634f49f?v=cd541eb6c65d47f5b2f3176defabafb6&pvs=4'
+},
   //   {
   //     title: 'Contact',
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
