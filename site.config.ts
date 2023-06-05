@@ -55,7 +55,7 @@ navigationStyle: 'custom',
 navigationLinks: [
   {
   title: 'BIO',
-  pageId: 'ABOUT-ME-a4fe08c0980f4c7bb51ca4cb477c66eb'
+  pageId: 'a4fe08c0980f4c7bb51ca4cb477c66eb'
   }
   //   {
   //     title: 'Contact',
