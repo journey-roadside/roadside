@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'tony',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'ROADSIDE一个记录生活和工作的特殊空间',
 
   // social usernames (optional)
   twitter: '',
