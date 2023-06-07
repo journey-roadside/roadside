@@ -179,7 +179,11 @@
   background: #e5f2e8;
 }
 
-@media (max-width: 1360px) {
+  .githubCorner {
+    display: none;
+  }
+
+/*@media (max-width: 1360px) {
   .githubCorner {
     display: none;
   }
@@ -217,3 +221,4 @@
 .hidden {
   visibility: hidden;
 }
+*/
