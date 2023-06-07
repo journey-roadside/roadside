@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: '',
-  github: 'j',
+  github: '',
   linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
