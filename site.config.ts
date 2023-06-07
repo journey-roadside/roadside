@@ -54,7 +54,7 @@ export default siteConfig({
 navigationStyle: 'custom',
 navigationLinks: [
   {
-  title: 'BIO',
+  title: 'About',
   pageId: 'a4fe08c0980f4c7bb51ca4cb477c66eb'
   }
   //   {
