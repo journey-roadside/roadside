@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'ROADSIDE',
   domain: 'https://necessary-tin-534.notion.site/ROADSIDE-b307593f32c24f8d9bfb9a0aa10fc5c9',
-  author: 'tony',
+  author: '鄂ICP备2023011210号-1	',
 
   // open graph metadata (optional)
   description: 'ROADSIDE一个记录生活和工作的特殊空间',
